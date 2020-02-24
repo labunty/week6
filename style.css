@@ -15,21 +15,21 @@ background: #ccc;
 
 article {
   position: relative;
-  height: 250mm;
-  width: 200mm;
+  height: 978px;
+  width: 755px;
   margin: 20px auto;
 }
 
 address {
 position: absolute;
-bottom: 35mm;
-right: 20mm;
+bottom: 132px;
+right: 75px;
 }
 
 h1 {
   position: absolute;
-  top: 12mm;
-  left: 20mm;
+  top: 45px;
+  left: 75px;
   width: 128px;
   height: 128px;
   font-size: 18px;
