@@ -48,9 +48,9 @@ h1 {
 /*background images, border */
 
 article {
-  background: url("images/top-image.png") top no-repeat;
-  background: url("images/top-image.png") top no-repeat,
-  url("images/bottom-image.png") bottom center no-repeat,
+  background: url("top-image.png") top no-repeat;
+  background: url("top-image.png") top no-repeat,
+  url("bottom-image.png") bottom center no-repeat,
     linear-gradient(to top, transparent, white 80%, gray ),
     linear-gradient(transparent, white 80% , gray );
   border-color: white;
@@ -60,7 +60,7 @@ article {
 }
 
 h1 {
-background: url("images/logo.png");
+background: url("logo.png");
 border-radius: 100%;
 box-shadow: 4px 4px 4px black;
 }
